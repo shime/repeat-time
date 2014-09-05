@@ -1,0 +1,22 @@
+{
+  "name": "repeat-time",
+  "version": "0.0.1",
+  "description": "Declarative setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^1.21.4"
+  },
+  "repository": {
+    "url": "https://github.com/shime/repeat-time.git",
+    "type": "git"
+  },
+  "author": "Hrvoje Simic <shime.ferovac@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "english-time": "0.x"
+  }
+}
