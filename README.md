@@ -1,5 +1,7 @@
 ## repeat-time
 
+[![Build Status](https://travis-ci.org/shime/repeat-time.svg)](https://travis-ci.org/shime/repeat-time)
+
 Declarative setInterval based on [english-time](http://github.com/azer/english-time).
 
 Basically a `s/setTimeout/setInterval/g` of [after-time](http://github.com/azer/after-time).
